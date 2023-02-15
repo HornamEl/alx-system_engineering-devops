@@ -5,3 +5,4 @@ prints hello user, where user is the current Linux user.
 4. Lists environment variables.
 5. Lists all local variables and environment variables, and functions.
 6.Creates a new local variable with name BEST and value School
+Create a global variable with name BEST and value School 
